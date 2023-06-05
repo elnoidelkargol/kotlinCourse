@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Curso Android</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="altura">Altura</string>
+    <string name="peso">PESO</string>
+    <string name="edad">edad</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_result">Your Result</string>
+    <string name="recalculate">Recalculate</string>
+    <string name="error">error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="desc_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura</string>
+
+    <string name="title_peso_normal">Peso Normal</string>
+    <string name="desc_peso_normal">Estás en un peso normal para tu altura</string>
+
+    <string name="title_sobrepeso">Sobre peso</string>
+    <string name="desc_sobrepeso">Estás por encima de lo óptimo para tu peso y altura</string>
+
+    <string name="title_obeso">Obesidad</string>
+    <string name="desc_obeso">Estás muy por encima de lo óptimo para tu peso y altura</string>
+
+    <!-- TODOAPP -->
+    <string name="todo_title">A darle caña</string>
+    <string name="todo_categories">Categorias</string>
+    <string name="tareas">Tareas</string>
 </resources>

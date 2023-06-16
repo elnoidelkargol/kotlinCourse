@@ -26,4 +26,8 @@
     <string name="todo_title">A darle caña</string>
     <string name="todo_categories">Categorias</string>
     <string name="tareas">Tareas</string>
+    <string name="todo_add_task_hint">Añade la tarea</string>
+    <string name="negocios">Negocios</string>
+    <string name="personal">Personal</string>
+    <string name="other">Other</string>
 </resources>

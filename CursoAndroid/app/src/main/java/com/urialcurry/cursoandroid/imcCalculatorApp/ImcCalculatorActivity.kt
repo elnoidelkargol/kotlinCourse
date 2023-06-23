@@ -68,10 +68,10 @@ class ImcCalculatorActivity : AppCompatActivity() {
         }
         rsHeight.addOnChangeListener { _, value, _ ->
             //  Define Format
-            val valueFormat = DecimalFormat("#.##")
+//            val valueFormat = DecimalFormat("#.##")
 
             // Format value
-            val result = valueFormat.format(value)
+//            val result = valueFormat.format(value)
             heightValue = value.toInt()
             tvHeight.text = "$value cm"
         }
